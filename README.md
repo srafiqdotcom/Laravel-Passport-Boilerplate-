@@ -23,8 +23,8 @@ This is a Laravel 12 API project that that I have developed for attribute value 
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/srafiqdotcom/astudio_assessment.git
-   cd astudio_assessment
+   git@github.com:srafiqdotcom/Laravel-Passport-Boilerplate.git
+   cd Laravel-Passport-Boilerplate
 
 
 ### Install Dependencies
