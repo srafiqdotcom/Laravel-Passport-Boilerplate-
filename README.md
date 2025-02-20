@@ -1,8 +1,8 @@
 
 
-# A Studio Assesment API
+# Laravel 12.0 Boilerplate | Laravel Passport
 
-This is a Laravel 12 API project that that I have developed for A studio assesment and demonstrates:
+This is a Laravel 12 API project that that I have developed for attribute value extraction functionality :
 
 - Kindly go though complete document
 
